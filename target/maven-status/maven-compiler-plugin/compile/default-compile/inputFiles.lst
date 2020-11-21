@@ -1,0 +1,4 @@
+/Users/diego/Documents/Grupodot/Servientrega/Workspace/ingesta-kafka/src/main/java/com/dot/ingesta/kafka/operations/ConfigConstans.java
+/Users/diego/Documents/Grupodot/Servientrega/Workspace/ingesta-kafka/src/main/java/com/dot/ingesta/kafka/run/StarterPipeline.java
+/Users/diego/Documents/Grupodot/Servientrega/Workspace/ingesta-kafka/src/main/java/com/dot/ingesta/kafka/pipeline/PipelineToBigquery.java
+/Users/diego/Documents/Grupodot/Servientrega/Workspace/ingesta-kafka/src/main/java/com/dot/ingesta/kafka/run/kafkaOptions.java

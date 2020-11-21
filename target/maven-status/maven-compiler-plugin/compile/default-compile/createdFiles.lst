@@ -1,0 +1,5 @@
+com/dot/ingesta/kafka/run/kafkaOptions.class
+com/dot/ingesta/kafka/pipeline/PipelineToBigquery$1.class
+com/dot/ingesta/kafka/pipeline/PipelineToBigquery.class
+com/dot/ingesta/kafka/operations/ConfigConstans.class
+com/dot/ingesta/kafka/run/StarterPipeline.class
