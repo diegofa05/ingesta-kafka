@@ -75,6 +75,7 @@ public class StarterPipeline {
 		options.setSubnetwork(ConfigConstans.SUBNETWORK);
 		options.setWorkerMachineType(ConfigConstans.MACHINE_TYPE);
 		options.setDiskSizeGb(ConfigConstans.DISK_SIZE);
+		options.setUsePublicIps(false);
 		
 		LOG.info("CREANDO PIPELINE");
 		
